@@ -1,2 +1,17 @@
-Mi segundo cerebro
-Día 1: aprendí qué es GitHub
+MI SEGUNDO CEREBRO
+
+Fecha: Día 1
+
+Qué aprendí hoy:
+- Qué es GitHub
+- Para qué sirve
+- Que puedo usarlo sin programar
+
+Para qué me sirve:
+- Guardar mis aprendizajes
+- Tener un respaldo en la nube
+
+Dudas:
+- Cómo subir más archivos
+- Cómo aprender código más adelante
+
