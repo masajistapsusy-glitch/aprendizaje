@@ -15,3 +15,13 @@ Dudas:
 - Cómo subir más archivos
 - Cómo aprender código más adelante
 
+🧠 Qué hice
+Creé un archivo llamado notas.txt directamente desde el navegador en GitHub.
+
+📌 Qué aprendí
+No necesito programar ni pagar Notion para usar GitHub.
+Puedo guardar enlaces y conectar todo desde Notion.
+
+💡 Por qué es importante
+Perdí el miedo a GitHub.
+Este es el inicio de mi segundo cerebro digital.
